@@ -1,4 +1,7 @@
 // Your solution here
+// to run on terminal
+// node solution
+
 // Sum all sequental numbers that given the target
 function greatsum(target) {
     var ret = 0; // default return value
@@ -7,7 +10,6 @@ function greatsum(target) {
     }
     return ret;
 }
-
 
 console.log('input 4 ', greatsum(4));
 console.log('input 10 ', greatsum(10));
