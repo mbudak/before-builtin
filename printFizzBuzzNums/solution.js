@@ -10,7 +10,6 @@ function printNumbers(){
         } else { // rest of it
             console.log('Result: ', i);
         }
-        
     }
 }
 
